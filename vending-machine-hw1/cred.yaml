@@ -1,0 +1,4 @@
+mysql_host : 'localhost:1331'
+mysql_user : 'root'
+mysql_password : 'iccsroot'
+mysql_db : 'vendingDB'
